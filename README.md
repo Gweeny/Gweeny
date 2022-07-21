@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gweeny
-- 👀 I’m interested in Java, Javascript, HTML/CSS
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in Java, Javascript, HTML/CSS, REACT, PHP
+- 🌱 I’m currently learning what i am interested about
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
 <!---
