@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gweeny
-- 👀 I’m interested in Java, Javascript, HTML/CSS, REACT, PHP
+- 👀 I’m interested in MERN Stack, with ReactJS, React Native, NextJs and Firebase
 - 🌱 I’m currently learning what i am interested about
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on anything and I am looking for a Job ! 
 - 📫 How to reach me ...
 
 <!---
